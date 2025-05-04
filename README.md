@@ -5,23 +5,22 @@
 Profissional com sólida experiência na área de logística e planejamento operacional. Forte conhecimento em roteirização, otimização de entregas, análise de viabilidade de sistemas logísticos e gestão de indicadores de desempenho. Experiência no suporte técnico a centros de distribuição, condução de treinamentos, homologação de sistemas e acompanhamento de auditorias. Vivência anterior em qualidade industrial, com foco em conformidade, melhoria contínua e projetos Lean Six Sigma (Green Belt). Formação em Processos Gerenciais e cursando pós-graduação em Data Analytics, com complementações em ferramentas analíticas, automações e ciência de dados. 
 
 <p align="left">
-    <a href="www.linkedin.com/in/yasmimfrança">
+    <a href="https://www.linkedin.com/in/yasmimfran%C3%A7a/" target="_blank">
         <img 
-            alt="Linkedln" 
-            title="Linkedln" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="LinkedIn" 
+            title="Me adicione no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"
         />
     </a>
-    <a href="https://github.com/yasmimfr">
+    <a href="https://github.com/yasmimfr" target="_blank">
         <img 
-            alt="Seguidores" 
+            alt="GitHub Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/yasmimfr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
